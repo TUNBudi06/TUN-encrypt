@@ -9,18 +9,21 @@ If you using termux
 Install this tool
 
 1.g++ (Clang)
+
 2.shc
 
 Kode
+
 ```
 clang encTUN.c -o tun
 ```
 
 # HOW TO USE
 Usage
+
 ```
 ./tun [option] [input file] [output file] [key]
-'''
+```
 
 OPTION :
 
