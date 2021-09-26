@@ -28,9 +28,13 @@ Usage
 OPTION :
 
 -f [input file] this for input a file can be [Zip,PNG,7zip,etc..]
+
 -k [input key] this for input a key can be [C strings,hex,and text]
+
 -o [output file] this for output of file that encrypt or decrypt
+
 -e this for encrypt
+
 -d this for decrypt
 
 Or you can type a
