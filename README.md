@@ -43,8 +43,8 @@ Or you can type a
 
 ## my social media account
 
-* [telegram] (http://t.me/TUNBudi06)
-* [Channel telegram] (https://t.me/TUN_Channel06)
-* [My Instagram] (http://instagram.com/theunknownname06)
+* [telegram](http://t.me/TUNBudi06)
+* [Channel telegram](https://t.me/TUN_Channel06)
+* [My Instagram](http://instagram.com/theunknownname06)
 
 
